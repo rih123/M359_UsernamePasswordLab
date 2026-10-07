@@ -1,8 +1,14 @@
+import java.util.Scanner;
 public class UserInfoLab {
     public static void main(String[] args) {
         // Part 1
         // Create a Scanner for keyboard input
         // Ask the user to enter their first and last name and pass these
+        System.out.println("What is your first name");
+        String firstName = input.nextString();
+
+        System.out.println("What is your first name");
+
         // values to the generateUsername method and save the returned result.
 
         // Part 2
