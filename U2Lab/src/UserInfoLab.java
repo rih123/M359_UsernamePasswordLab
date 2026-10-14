@@ -13,7 +13,7 @@ public class UserInfoLab {
 
         String username = generateUsername(firstName, lastName);
 
-        // Part 2
+        // Paart 2
         System.out.print("Enter a Password: ");
         String password = keyboard.nextLine();
 
